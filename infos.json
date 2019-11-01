@@ -1,0 +1,5 @@
+{
+    "{{CUSTOMER}}"        : "Contoso",
+    "{{PENTESTER_NAME}}"  : "John Doe",
+    "{{YOUR_COMPANY}}"    : "Issue2Report"
+}
